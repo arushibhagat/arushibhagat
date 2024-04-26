@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborateML projects.
 - 📫 How to reach me: @arushibhagat862@gmail.com
 
-<!---
-arushibhagat/arushibhagat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Emotion Analysis using NLP: https://github.com/arushibhagat/Emotion-Analysis-using-NLP
+Dropout Rate Analysis: https://github.com/arushibhagat/Dropout-Rate-Analysis
+College Management System: https://github.com/arushibhagat/College-Management-System
