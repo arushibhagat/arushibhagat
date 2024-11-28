@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arushibhagat
 - 👀 I’m interested in ML, AI, Data Science and Analytics.
 - 🌱 I’m currently pursuing B.Tech CSE at IIIT Nagpur and BS in Data Science and Applications from IIT Madras(online).
-- 💞️ I’m looking to collaborate on ML projects.
+- 💞️ I’m looking to collaborate on ML, AI and Generative AI projects.
 - 📫 How to reach me: arushibhagat862@gmail.com
